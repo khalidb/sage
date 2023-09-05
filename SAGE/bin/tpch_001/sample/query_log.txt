@@ -1,0 +1,15 @@
+--query to load initial tables
+.mode csv
+.header on
+.output CustomerView.csv
+
+
+
+
+Create view customer_rp as select (rowid -1) as id, * from CustomerView;
+Create view orders_rp as select (rowid -1) as id, * from OrdersView;
+Create view part_rp as select (rowid -1) as id, * from PartView;
+Create view partsupp_rp as select (rowid -1) as id, * from PartsuppView;
+Create view supplier_rp as select (rowid -1) as id, * from SupplierView;
+Create view view_lineitem_rp as select (rowid -1) as id, * from view_lineitem_View;
+Create view region_rp as select (rowid -1) as id, * from Region;

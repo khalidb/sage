@@ -1,0 +1,3 @@
+CUSTOMER      NATION        PARTSUPP      nation_rp     region_rp   
+CustomerView  ORDERS        REGION        part_rp       supplier_rp 
+LINEITEM      PART          SUPPLIER      partsupp_rp 

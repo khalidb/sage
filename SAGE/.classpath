@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Resources"/>
+	<classpathentry kind="src" path="Results"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/khalidbelhajjame/eclipse-workspace/SAGE/lib/lucene-core-4.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-csv-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/csvjdbc-1.0-36.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/google-api-client-1.30.9.jar"/>
+	<classpathentry kind="lib" path="lib/google-api-client-auth-oauth2-1.2.3-alpha.jar"/>
+	<classpathentry kind="lib" path="lib/google-api-client-jackson2-1.30.2.jar"/>
+	<classpathentry kind="lib" path="lib/google-oauth-client-1.30.1.jar"/>
+	<classpathentry kind="lib" path="lib/google-oauth-client-servlet-1.30.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.5.9.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.9.9.jar"/>
+	<classpathentry kind="lib" path="lib/jcommander-1.27.jar"/>
+	<classpathentry kind="lib" path="lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/otj-pg-embedded-0.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/opencsv-1.7.jar"/>
+	<classpathentry kind="lib" path="lib/fastutil-8.5.11.jar"/>
+	<classpathentry kind="lib" path="lib/opencsv-4.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-core-4.0-beta1-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-core-4.0-beta1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-core-4.0-beta1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-legacy-4.0-beta1-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-legacy-4.0-beta1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-legacy-4.0-beta1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-legacy-core-4.0-beta1-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-legacy-core-4.0-beta1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-legacy-core-4.0-beta1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-legacy-exception-4.0-beta1-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-legacy-exception-4.0-beta1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-legacy-exception-4.0-beta1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-neuralnet-4.0-beta1-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-neuralnet-4.0-beta1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-neuralnet-4.0-beta1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-transform-4.0-beta1-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-transform-4.0-beta1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math4-transform-4.0-beta1.jar"/>
+	<classpathentry kind="lib" path="lib/jama-1.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/koloboke-api-jdk8-1.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
